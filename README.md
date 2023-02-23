@@ -12,7 +12,7 @@ The goal was to adapt this model to a novel dataset of french speakers called [2
 
 ## Prepare
 1. Create a new folder and name it `log`;
-2. Download [2022_i3s_EventLipReadingDataset](https://drive.google.com/file/d/1dBEgtmctTTWJlWnuWxFtk8gfOdVVpkQ0/view) dataset, and put it in `data` folder;
+2. Download the preprocessed [2022_i3s_EventLipReadingDataset](https://unice-my.sharepoint.com/:u:/g/personal/marcel-thomas_schweiker_etu_unice_fr/EWoXAGXQdB5JgBnDh8AAujcB4OvPc9uo7kXkAD4Xl8GJKw?e=t1qzwJ) dataset, and put it in `data` folder;
 
 ## Training
 You can train your model by running
