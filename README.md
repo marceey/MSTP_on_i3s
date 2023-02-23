@@ -3,7 +3,6 @@
 This work aims to adapt the MSTP model introduced in this [paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Tan_Multi-Grained_Spatio-Temporal_Features_Perceived_Network_for_Event-Based_Lip-Reading_CVPR_2022_paper.pdf)
 by Tan et al. (2022); which was used to tackle an automatic event-based lip-reading
 problem. This code builds on the Pytorch implementation of the work of Tan et al. (2022).
-![image](https://https://github.com/YaoLu314/event-based-lip-reading/tree/main/misc/framework.jpg)
 
 The goal was to adapt this model to a novel dataset of french speakers called 2022_i3s_EventLipReadingDataset.
 
