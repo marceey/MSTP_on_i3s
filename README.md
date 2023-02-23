@@ -4,7 +4,7 @@ This work aims to adapt the MSTP model introduced in this [paper](https://openac
 by Tan et al. (2022); which was used to tackle an automatic event-based lip-reading
 problem. This code builds on the Pytorch implementation of the work of Tan et al. (2022).
 
-The goal was to adapt this model to a novel dataset of french speakers called 2022_i3s_EventLipReadingDataset.
+The goal was to adapt this model to a novel dataset of french speakers called [2022_i3s_EventLipReadingDataset](https://unice-my.sharepoint.com/:u:/g/personal/marcel-thomas_schweiker_etu_unice_fr/ER6pzPhLMWpPrI5doUP7HVQBl__Cpj3VIqI-clQ5vsRh2w?e=3w5bUo).
 
 ## Dependencies
 * Python 3.7
